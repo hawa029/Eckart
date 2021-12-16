@@ -1,0 +1,5 @@
+VSCode/
+
+# ignorer le fichier robots.txt
+
+.txt
